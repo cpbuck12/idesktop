@@ -1,5 +1,4 @@
 <?php
-require_once(getcwd()."staging.php");
 /**
  * @file
  * The PHP page that serves all page requests on a Drupal installation.
