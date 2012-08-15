@@ -1,0 +1,13 @@
+.system { display: none; }
+.header { width: 64px; height: 64px; float: left; background-color: black; border: 0 0 0 0;  }
+body { border-width: 0; padding: 0 0 0 0; margin: 0 0 0 0; background-color: black; }
+#logo { color: white; font-size: 64px;  }
+.tile { width: 128px; height: 128px; float: left; }
+.subtile { width: 128px; height: 128px; position: relative; top: 0; left: 0; }
+.subtile0 { }
+.subtile1 { top: -128px; }
+.subtile2 { top: -256px; }
+
+.placedicon { position: relative; top: 32px; left: 32px; }
+.cover { position: relative; top: 16px; left: 16px; width: 96px; height: 96px; }
+#board { border-width: 0; padding 0 0 0 0; margin: 0 0 0 0; z-index = -1; } 
